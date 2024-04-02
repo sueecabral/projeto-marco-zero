@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(203, 203, 218);
+}
+h1,h2,h3{
+    text-align: center;
+}
+
+
+main {
+    padding: 30px;
+    text-align: justify;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+#marco-zero{
+    background-color:#a0c1ce;
+    width: 100%;
+    height: auto;
+
+}
+.link-ref{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+footer {
+    background-color: rgb(203, 203, 218);
+    color: #131212;
+    padding: 10px;
+    text-align: center;
+}
