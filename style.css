@@ -8,7 +8,6 @@ h1,h2,h3{
     text-align: center;
 }
 
-
 main {
     padding: 30px;
     text-align: justify;
@@ -31,8 +30,8 @@ img {
     align-items:center;
 }
 footer {
-    background-color: rgb(203, 203, 218);
-    color: #131212;
+    background-color: rgb(48, 48, 56);
+    color: #fff;
     padding: 10px;
     text-align: center;
 }
